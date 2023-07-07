@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/unique-store-website-local-storage/static/css/main.7ffb1d5e.css",
+    "main.js": "/unique-store-website-local-storage/static/js/main.f684dca5.js",
+    "static/media/primeicons.svg": "/unique-store-website-local-storage/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/bootstrap-icons.woff?": "/unique-store-website-local-storage/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/unique-store-website-local-storage/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/primeicons.eot": "/unique-store-website-local-storage/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/unique-store-website-local-storage/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/unique-store-website-local-storage/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/unique-store-website-local-storage/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/unique-store-website-local-storage/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/unique-store-website-local-storage/index.html",
+    "main.7ffb1d5e.css.map": "/unique-store-website-local-storage/static/css/main.7ffb1d5e.css.map",
+    "main.f684dca5.js.map": "/unique-store-website-local-storage/static/js/main.f684dca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ffb1d5e.css",
+    "static/js/main.f684dca5.js"
+  ]
+}
